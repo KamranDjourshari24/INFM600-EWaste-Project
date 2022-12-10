@@ -1,2 +1,3 @@
 # INFM600-EWaste-Project
-INFM600 Ewaste Project Deliverables
+INFM600 E-Waste Project Deliverables
+
