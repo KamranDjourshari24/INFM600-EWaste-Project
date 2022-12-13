@@ -1,5 +1,5 @@
 # INFM600-EWaste-Project
-##### INFM600 E-Waste Project Deliverables
+### INFM600 E-Waste Project Deliverables
 
 Waste Management has been a pressing issue across the globe with an ever-rising population surge and the utilization of daily needs including electronics. As we already are aware of the tenure of these goods and depending on the usage, have a specific lifespan. After these electronics reach the end of life, they are typically discarded the waste disposal which gets accumulated and joins the regular pile of waste that gets shipped and accumulated in dump yards across the globe. We wanted to have the e-waste handled in a much more efficient sense with the urge to have a service that could significantly reduce and recycle the parts and remains of electronic goods after their end of life.
 
